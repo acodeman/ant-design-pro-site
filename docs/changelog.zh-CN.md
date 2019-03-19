@@ -17,7 +17,7 @@ type: 其他
 - [Statistic / Countdown](https://github.com/ant-design/ant-design/pull/14154)
 - [Empty](https://github.com/ant-design/ant-design/pull/13651)
 
-在 Ant Design 中这些组件会得到更加完善的支持与维护，Pro 将会专注的做 Layout 和脚手架的工作。
+在 Ant Design 中这些组件会得到更加完善的支持与维护，Pro 将会he专注的做 Layout 和脚手架的工作。
 
 #### 脚手架
 
@@ -27,7 +27,7 @@ type: 其他
 - 支持了 PWA ，已经默认开启。[#2816](https://github.com/ant-design/ant-design-pro/pull/2816)
 - prettier 现在在 windows 中也可以正确的运行。[ac86837](https://github.com/ant-design/ant-design-pro/commit/ac86837d20494f082ab39b1a52eabea3bc2ac81e)
 - 增加了gitpod，可以更加快速的预览 pro。[#3349](https://github.com/ant-design/ant-design-pro/pull/3349)
-- 增加了一个新的配置 `title`，可以快速的配置 header title。[#3332](https://github.com/ant-design/ant-design-pro/pull/3332)
+- 增加一个新的配置 `title`，可以快速的配置 header title。[#3332](https://github.com/ant-design/ant-design-pro/pull/3332)
 - 默认打开 tree-shaking。[#3350](https://github.com/ant-design/ant-design-pro/pull/3332)
 - 默认关闭了 hardSource。[#3358](https://github.com/ant-design/ant-design-pro/pull/3358)
 
